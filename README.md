@@ -1,1 +1,1 @@
-# Cotrole de Fluxo contendo excessões de uso
+# Controle de Fluxo contendo excessões de uso
